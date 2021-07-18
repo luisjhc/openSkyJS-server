@@ -2,7 +2,7 @@
 
 #### With Open Sky Js you can find flight details based on arrival airports.
 
-![homePage](/images/readmeImages/homePage.png)
+![homePage](/images/homePage.png)
 
 ## Go to Airports page to start your search
 
@@ -31,7 +31,7 @@
 - Callsign
 - Departure airport distance
 
-![airportsPage-response](/images/airportsPage-response)
+![airportsPage-response](/images/airportsPage-response.png)
 
 ## **[Link to the website](https://openskyjs.netlify.app/)**
 
