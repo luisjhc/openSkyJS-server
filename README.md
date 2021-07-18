@@ -2,11 +2,11 @@
 
 #### With Open Sky Js you can find flight details based on arrival airports.
 
-![homePage](/src/images/readmeImages/homePage.png)
+![homePage](/images/readmeImages/homePage.png)
 
 ## Go to Airports page to start your search
 
-![airportsPage](/src/images/readmeImages/airportsPage-general.png)
+![airportsPage](/images/airportsPage-general.png)
 
 #### Here you can choose from 4 different airports:
 
@@ -15,15 +15,15 @@
 - Berlin-Tegel
 - Munich
 
-![airportsPage-airports](/src/images/readmeImages/airportsPage-airports.png)
+![airportsPage-airports](/images/airportsPage-airports.png)
 
 #### Choose the start and end date (remember that date interval must be no longer than 7 days)
 
-![airportsPage-dates](/src/images/readmeImages/airportsPage-dates.png)
+![airportsPage-dates](/images/airportsPage-dates.png)
 
 #### Wait while the app is getting the data
 
-![airportsPage-requesting](/src/images/readmeImages/airportsPage-requesting.png)
+![airportsPage-requesting](/images/airportsPage-requesting.png)
 
 #### Once the data has been displayed, you'll see the following flight details:
 
@@ -31,7 +31,7 @@
 - Callsign
 - Departure airport distance
 
-![airportsPage-response](/src/images/readmeImages/airportsPage-response)
+![airportsPage-response](/images/airportsPage-response)
 
 ## **[Link to the website](https://openskyjs.netlify.app/)**
 
