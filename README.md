@@ -35,6 +35,8 @@
 
 ## **[Link to the website](https://openskyjs.netlify.app/)**
 
+#### **[Link to the front-end repo](https://github.com/luisjhc/openSkyJs-client)**
+
 #### Technologies Used:
 
 - JavaScript
